@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    width: 150vw;
+    height: 150vh;
+    background-color: rgb(19, 230, 159); 
+    flex: auto;
+    justify-content: center;
+    align-items: center;
+}
+#contener{
+    width: 50vw;
+    height: 100vh;
+   background-color: rgb(235, 230, 230);
+   flex: auto;
+   flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 5vh;
+    margin-left: 15%;
+     padding: 10%; 
+}
